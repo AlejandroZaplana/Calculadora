@@ -7,7 +7,7 @@ package calculadora;
 
 /**
  *
- * @author DAM1
+ * @author ALEJANDRO ZAPLANA SÁNCHEZ
  */
 public class Calculadora {
 
@@ -24,4 +24,5 @@ public class Calculadora {
     }
     
     //Prueba con rama1
+	//PROBANDO GITHUB CON COMANDOS
 }
